@@ -21,7 +21,7 @@
     "dotenv": "^6.0.0",
     "esm": "^3.2.25",
     "express": "^4.17.0",
-    "highlight.js": "^9.15.6",
+    "highlight.js": "^9.15.8",
     "hoek": "^5.0.4",
     "image-size": "^0.6.3",
     "knex": "^0.15.2",
